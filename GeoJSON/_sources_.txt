@@ -1,0 +1,3 @@
+KML converted to GeoJSON using https://products.aspose.app/gis/en/conversion/kml-to-geojson
+
+DISCOVER-AQ
